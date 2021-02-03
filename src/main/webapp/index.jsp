@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World by WebAppTest (Obryan5598)</h2>
+<h2>Hello World by WebAppTest (LDAP login successful)</h2>
 </body>
 </html>

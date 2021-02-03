@@ -1,0 +1,4 @@
+<jboss-web>
+    <security-domain>test_sd</security-domain>
+    <context-root>/webapp-test/</context-root>
+</jboss-web>
